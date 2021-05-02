@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.5.1)
+    webrick (1.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  webrick
+
+BUNDLED WITH
+   2.1.4
